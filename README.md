@@ -11,6 +11,7 @@
 |[![Colab](https://img.shields.io/badge/認識_Pandas-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1YjrFIf6rbpvBm_5Cl_JT8jkGY-7c4dNq?usp=sharing)|Apr 9, 2021| 
 |[![Colab](https://img.shields.io/badge/資料整合_Data_Integration-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1jfI9Rs-LrV2e8zqG3Lj_5skEV-c9oFV7?usp=sharing)|Apr 12, 2021|
 |[![Colab](https://img.shields.io/badge/缺失值_Missing_Value-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/19KdwvTihYQgMy5Tf0PL6of8_k0NkBlWb?usp=sharing)|Apr 14, 2021|
+|[![Colab](https://img.shields.io/badge/日期時間_Dates_and_Times-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1R1tEKp7-K1d7xR3pVW7RNlvBTgJbet3m?usp=sharing)|Apr 16, 2021|
 
 ## References  
 > ### User Guide

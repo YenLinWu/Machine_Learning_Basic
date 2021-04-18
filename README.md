@@ -12,6 +12,7 @@
 |[![Colab](https://img.shields.io/badge/資料整合_Data_Integration-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1jfI9Rs-LrV2e8zqG3Lj_5skEV-c9oFV7?usp=sharing)|Apr 12, 2021|
 |[![Colab](https://img.shields.io/badge/缺失值_Missing_Value-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/19KdwvTihYQgMy5Tf0PL6of8_k0NkBlWb?usp=sharing)|Apr 14, 2021|
 |[![Colab](https://img.shields.io/badge/日期時間_Dates_and_Times-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1R1tEKp7-K1d7xR3pVW7RNlvBTgJbet3m?usp=sharing)|Apr 16, 2021|
+| [![Colab](https://img.shields.io/badge/資料離散化_Data_Discretization-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1tqzJZtrlFyrMihkwfqdJIGwXOMVP0Mi1?usp=sharing) | Apr 18, 2021 |
 
 ## References  
 > ### User Guide
@@ -19,8 +20,9 @@
 [2] [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)  
 [3] [Scikit Learn](https://scikit-learn.org/stable/user_guide.html)  
 > ### Articles
-[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法'), B. Chen, May 11, 2020  
-[2] [How to Use datetime.timedelta in Python With Examples](https://miguendes.me/how-to-use-datetimetimedelta-in-python-with-examples '日期時間的加減計算'), Miguel Brito, Nov 14, 2020  
+[1] [Introduction to Pandas apply, applymap and map](https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff 'DataFrame 中欄位運算的方法'), B. Chen, May 11, 2020.  
+[2] [How to Use datetime.timedelta in Python With Examples](https://miguendes.me/how-to-use-datetimetimedelta-in-python-with-examples '日期時間的加減計算'), Miguel Brito, Nov 14, 2020.  
+[3] [An Introduction to Discretization Techniques for Data Scientists](https://towardsdatascience.com/an-introduction-to-discretization-in-data-science-55ef8c9775a2 '資料離散化的方法'), Rohan Gupta, Dec 7, 2019.
 <br/>
 
 ## Acknowledgement 

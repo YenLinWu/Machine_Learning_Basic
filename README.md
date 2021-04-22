@@ -17,6 +17,7 @@
 |[![Colab](https://img.shields.io/badge/日期時間_Dates_and_Times-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1R1tEKp7-K1d7xR3pVW7RNlvBTgJbet3m?usp=sharing)|Apr 16, 2021|
 |[![Colab](https://img.shields.io/badge/資料離散化_Data_Discretization-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1tqzJZtrlFyrMihkwfqdJIGwXOMVP0Mi1?usp=sharing) | Apr 18, 2021 | 
 |[![Colab](https://img.shields.io/badge/標籤及獨熱編碼_Label_and_OneHot_Encoding-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1o1AzmXINpN8Ob2b2RbZtPXo28W70-1N-?usp=sharing)| Apr 20, 2021 |
+|[![Colab](https://img.shields.io/badge/字串處理_String_Processing-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U7tSSiJpy-XI0r2VMcRxw4qU79HDOWOv?usp=sharing)| Apr 22, 2021 |
 
 ## References  
 > ### User Guide

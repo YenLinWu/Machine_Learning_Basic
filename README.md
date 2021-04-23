@@ -9,15 +9,17 @@
 
 ## Content
 | Topic | Document | Reference Article |
-| ---------- | :-----------: | :----------- |
-| 認識 NumPy </br>Introduction to NumPy | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U4t18l4EzX4HNKHObMN3XmJ5FZcTfwW1?usp=sharing)||
-| 認識 Pandas</br>Introduction to Pandas | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1YjrFIf6rbpvBm_5Cl_JT8jkGY-7c4dNq?usp=sharing) | [1] |  
-| 資料整合 </br>Data Integration | [![Colab](https://img.shields.io/badge/Apr_12,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1jfI9Rs-LrV2e8zqG3Lj_5skEV-c9oFV7?usp=sharing) | |
-| 缺失值 </br>Missing Value | [![Colab](https://img.shields.io/badge/Apr_14,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/19KdwvTihYQgMy5Tf0PL6of8_k0NkBlWb?usp=sharing) | |
-| 日期時間 </br>Dates and Times | [![Colab](https://img.shields.io/badge/Apr_16,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1R1tEKp7-K1d7xR3pVW7RNlvBTgJbet3m?usp=sharing) | [2] |
-| 資料離散化 </br>Data_Discretization | [![Colab](https://img.shields.io/badge/Apr_18,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1tqzJZtrlFyrMihkwfqdJIGwXOMVP0Mi1?usp=sharing) | [3] |  
-|標籤及獨熱編碼 </br>Label and OneHot Encoding | [![Colab](https://img.shields.io/badge/Apr_20,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1o1AzmXINpN8Ob2b2RbZtPXo28W70-1N-?usp=sharing) | [4] |  
-| 字串處理 </br>String Processing | [![Colab](https://img.shields.io/badge/Apr_22,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U7tSSiJpy-XI0r2VMcRxw4qU79HDOWOv?usp=sharing) ||
+| ---------- | :----------- | :----------- |
+| Introduction to NumPy </br>認識 NumPy | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U4t18l4EzX4HNKHObMN3XmJ5FZcTfwW1?usp=sharing)||
+| Introduction to Pandas </br>認識 Pandas | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1YjrFIf6rbpvBm_5Cl_JT8jkGY-7c4dNq?usp=sharing) | [1] |  
+| Data Integration </br>資料整合 | [![Colab](https://img.shields.io/badge/Apr_12,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1jfI9Rs-LrV2e8zqG3Lj_5skEV-c9oFV7?usp=sharing) | |
+| Missing Value </br>缺失值 | [![Colab](https://img.shields.io/badge/Apr_14,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/19KdwvTihYQgMy5Tf0PL6of8_k0NkBlWb?usp=sharing) | |
+| Dates and Times </br>日期時間 | [![Colab](https://img.shields.io/badge/Apr_16,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1R1tEKp7-K1d7xR3pVW7RNlvBTgJbet3m?usp=sharing) | [2] |
+| Data Discretization </br>資料離散化 | [![Colab](https://img.shields.io/badge/Apr_18,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1tqzJZtrlFyrMihkwfqdJIGwXOMVP0Mi1?usp=sharing) | [3] |  
+| Label and OneHot Encoding </br>標籤及獨熱編碼| [![Colab](https://img.shields.io/badge/Apr_20,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1o1AzmXINpN8Ob2b2RbZtPXo28W70-1N-?usp=sharing) | [4] |  
+| String Processing </br>字串處理 | [![Colab](https://img.shields.io/badge/Apr_22,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U7tSSiJpy-XI0r2VMcRxw4qU79HDOWOv?usp=sharing) ||
+| Data Reduction - PCA </br>特徵降維 - 主成份分析 | [![Colab](https://img.shields.io/badge/Apr_24,_2021-Google_Colab-yellow.svg)]() ||
+
 
 ## References  
 > ### User Guide

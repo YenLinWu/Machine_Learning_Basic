@@ -18,7 +18,7 @@
 | Data Discretization </br>資料離散化 | [![Colab](https://img.shields.io/badge/Apr_18,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1tqzJZtrlFyrMihkwfqdJIGwXOMVP0Mi1?usp=sharing) | [3] |  
 | Label and OneHot Encoding </br>標籤及獨熱編碼| [![Colab](https://img.shields.io/badge/Apr_20,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1o1AzmXINpN8Ob2b2RbZtPXo28W70-1N-?usp=sharing) | [4] |  
 | String Processing </br>字串處理 | [![Colab](https://img.shields.io/badge/Apr_22,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U7tSSiJpy-XI0r2VMcRxw4qU79HDOWOv?usp=sharing) ||
-| Data Reduction - PCA </br>特徵降維 - 主成份分析 | [![Colab](https://img.shields.io/badge/Apr_24,_2021-Google_Colab-yellow.svg)]() | [5]、[6] |
+| Data Reduction - PCA </br>特徵降維 - 主成份分析 | [![Colab](https://img.shields.io/badge/Apr_24,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1EKLPtjsX9amiVmo2W9s_EjYKaRLxShFH?usp=sharing) | [5]、[6] |
 
 
 ## References  

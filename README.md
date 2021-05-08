@@ -1,5 +1,5 @@
 # Machine Learning Basic
-![Python](https://img.shields.io/badge/Python-3.7-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.19.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.5-range.svg) ![Numpy](https://img.shields.io/badge/ScikitLearn-0.22.2-range.svg) 
+![Python](https://img.shields.io/badge/Python-3.7-blue.svg) ![Numpy](https://img.shields.io/badge/NumPy-1.19.5-range.svg) ![Pandas](https://img.shields.io/badge/Pandas-1.1.5-range.svg) ![Matplotlib](https://img.shields.io/badge/Matplolib-3.2.2-range.svg) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-0.22.2-range.svg) 
 
 :star:  Data and characteristics determine the upper limit of machine learning, and models and algorithms just approach this upper limit.  
 :star:  數據與特徵決定了機器學習的上限，而模型和演算法則只是在逼近上限。   

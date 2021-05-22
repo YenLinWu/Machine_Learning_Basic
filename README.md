@@ -11,7 +11,6 @@
 | Topic | Document | Reference Article |
 | ---------- | :----------- | :----------- |
 | Introduction to NumPy </br>認識 NumPy | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U4t18l4EzX4HNKHObMN3XmJ5FZcTfwW1?usp=sharing)||
-| Introduction to NumPy </br>認識 NumPy | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Machine_Learning_Basic/blob/main/%E8%AA%8D%E8%AD%98_NumPy.ipynb)||
 | Introduction to Pandas </br>認識 Pandas | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1YjrFIf6rbpvBm_5Cl_JT8jkGY-7c4dNq?usp=sharing) | [1] |  
 | Data Integration </br>資料整合 | [![Colab](https://img.shields.io/badge/Apr_12,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1jfI9Rs-LrV2e8zqG3Lj_5skEV-c9oFV7?usp=sharing) | |
 | Missing Value </br>缺失值 | [![Colab](https://img.shields.io/badge/Apr_14,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/19KdwvTihYQgMy5Tf0PL6of8_k0NkBlWb?usp=sharing) | |

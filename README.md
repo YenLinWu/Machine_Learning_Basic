@@ -11,7 +11,7 @@
 | Topic | Document | Reference Article |
 | ---------- | :----------- | :----------- |
 | Introduction to NumPy </br>認識 NumPy | [![Colab](https://img.shields.io/badge/June_12,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Machine_Learning_Basic/blob/main/Materials/%E8%AA%8D%E8%AD%98_NumPy.ipynb)||
-| Introduction to Pandas </br>認識 Pandas | [![Colab](https://img.shields.io/badge/Apr_9,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1YjrFIf6rbpvBm_5Cl_JT8jkGY-7c4dNq?usp=sharing) | [1] |  
+| Introduction to Pandas </br>認識 Pandas | [![Colab](https://img.shields.io/badge/June_13,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Machine_Learning_Basic/blob/main/Materials/%E8%AA%8D%E8%AD%98_Pandas.ipynb) | [1] |  
 | Data Integration </br>資料整合 | [![Colab](https://img.shields.io/badge/Apr_12,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1jfI9Rs-LrV2e8zqG3Lj_5skEV-c9oFV7?usp=sharing) | |
 | Missing Value </br>缺失值 | [![Colab](https://img.shields.io/badge/Apr_14,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/19KdwvTihYQgMy5Tf0PL6of8_k0NkBlWb?usp=sharing) | |
 | Dates and Times </br>日期時間 | [![Colab](https://img.shields.io/badge/Apr_16,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1R1tEKp7-K1d7xR3pVW7RNlvBTgJbet3m?usp=sharing) | [2] |

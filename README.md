@@ -33,7 +33,8 @@
 [3] [An Introduction to Discretization Techniques for Data Scientists](https://towardsdatascience.com/an-introduction-to-discretization-in-data-science-55ef8c9775a2 '資料離散化的方法'), Rohan Gupta, Dec 7, 2019.  
 [4] [Categorical encoding using Label-Encoding and One-Hot-Encoder](https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd '標籤編碼與獨熱編碼'), Dinesh Yadav, Dec 7, 2019.  
 [5] [The Curse of Dimensionality in Classification](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/ '維度詛咒'), Vincent Spruyt, April 16, 2014.  
-[6] [PCA — how to choose the number of components ?](https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/), Bartosz Mikulski, Jun 3, 2019.  
+[6] [PCA — how to choose the number of components ?](https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/), Bartosz Mikulski, Jun 3, 2019.   
+[7] [Coefficient of Determination (R Squared): Definition, Calculation](https://www.statisticshowto.com/probability-and-statistics/coefficient-of-determination-r-squared/#COD) from [StatisticsHowTo.com](https://www.statisticshowto.com/). 
 <br/>
 
 ## Acknowledgement 

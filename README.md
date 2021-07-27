@@ -20,6 +20,7 @@
 | Label and OneHot Encoding </br>標籤及獨熱編碼| [![Colab](https://img.shields.io/badge/Apr_20,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1o1AzmXINpN8Ob2b2RbZtPXo28W70-1N-?usp=sharing) | [4] |  
 | String Processing </br>字串處理 | [![Colab](https://img.shields.io/badge/Apr_22,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U7tSSiJpy-XI0r2VMcRxw4qU79HDOWOv?usp=sharing) ||
 | Data Reduction - PCA </br>特徵降維 - 主成份分析 | [![Colab](https://img.shields.io/badge/Apr_24,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1EKLPtjsX9amiVmo2W9s_EjYKaRLxShFH?usp=sharing) | [5]、[6] |
+| Terminologies of Machine Learning </br>機器學習的用語 | [![Colab](https://img.shields.io/badge/Apr_24,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Machine_Learning_Basic/blob/main/Materials/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9A%84%E7%94%A8%E8%AA%9E_Terminologies_of_ML.ipynb) | [7]、[8]、[9] |
 
 
 ## References  
@@ -35,6 +36,8 @@
 [5] [The Curse of Dimensionality in Classification](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/ '維度詛咒'), Vincent Spruyt, April 16, 2014.  
 [6] [PCA — how to choose the number of components ?](https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/), Bartosz Mikulski, Jun 3, 2019.   
 [7] [Coefficient of Determination (R Squared): Definition, Calculation](https://www.statisticshowto.com/probability-and-statistics/coefficient-of-determination-r-squared/#COD) from [StatisticsHowTo.com](https://www.statisticshowto.com/). 
+[8] [Mean Squared Error or R-Squared – Which one to use ?](https://vitalflux.com/mean-square-error-r-squared-which-one-to-use/), Ajitesh Kumar, Sep 30, 2020.     
+[9] [Splitting a Dataset into Train and Test Sets](https://www.baeldung.com/cs/train-test-datasets-ratio), A. Aylin Tokuç, Jan 14, 2021.  
 <br/>
 
 ## Acknowledgement 

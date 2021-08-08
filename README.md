@@ -20,7 +20,7 @@
 | Label and OneHot Encoding </br>標籤及獨熱編碼| [![Colab](https://img.shields.io/badge/Apr_20,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1o1AzmXINpN8Ob2b2RbZtPXo28W70-1N-?usp=sharing) | [4] |  
 | String Processing </br>字串處理 | [![Colab](https://img.shields.io/badge/Apr_22,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1U7tSSiJpy-XI0r2VMcRxw4qU79HDOWOv?usp=sharing) ||
 | Data Reduction - PCA </br>特徵降維 - 主成份分析 | [![Colab](https://img.shields.io/badge/Apr_24,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/drive/1EKLPtjsX9amiVmo2W9s_EjYKaRLxShFH?usp=sharing) | [5]、[6] |
-| Terminologies of Machine Learning </br>機器學習的用語 | [![Colab](https://img.shields.io/badge/Jul_27,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Machine_Learning_Basic/blob/main/Materials/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9A%84%E7%94%A8%E8%AA%9E_Terminologies_of_ML.ipynb) | [7]、[8]、[9] |
+| Terminologies of Machine Learning </br>機器學習的用語 | [![Colab](https://img.shields.io/badge/Aug_8,_2021-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/Machine_Learning_Basic/blob/main/Materials/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9A%84%E7%94%A8%E8%AA%9E_Terminologies_of_ML.ipynb) | [7]、[8]、[9] |
 
 
 ## References  
